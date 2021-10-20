@@ -44,22 +44,3 @@ button{
     font-style: normal;
 }
 
-.nav{
-    height: 108px;
-    position: -webkit-sticky; /*chrome*/;
-    position: sticky;
-    margin: 90px;
-    margin-top: 30px;
-    background-color: seashell;
-}
-
-.row{
-    background-color: red;
-    display: block; 
-    height: 100%;
-    width: 100%;
-}
-
-.row a{
-    text-align: center;
-}
