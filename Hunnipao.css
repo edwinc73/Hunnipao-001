@@ -89,3 +89,20 @@ ul a{
 ul li{
     display: inline-block;
 }
+
+.slideshow{
+    position: absolute;
+    width: 100%;
+    height: fit-content;
+    padding: 0px 90px;
+}
+
+
+.slideshow img{
+    width: 100%;
+    height: auto;
+    z-index: -1;
+    position: absolute;
+    top: -104px;
+    object-fit: cover;
+}
